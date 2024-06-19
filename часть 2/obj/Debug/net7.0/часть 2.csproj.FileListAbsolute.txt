@@ -1,0 +1,23 @@
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\лаба14.deps.json
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\лаба14.runtimeconfig.json
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\лаба14.exe
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\часть 2.exe
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\часть 2.deps.json
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\часть 2.runtimeconfig.json
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\часть 2.dll
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\часть 2.pdb
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\10lablib.dll
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\лаба14.dll
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\10lablib.pdb
+C:\Users\artem\source\repos\лаба14\часть 2\bin\Debug\net7.0\лаба14.pdb
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.AssemblyInfo.cs
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.csproj.CopyComplete
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.dll
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\refint\часть 2.dll
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.pdb
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\часть 2.genruntimeconfig.cache
+C:\Users\artem\source\repos\лаба14\часть 2\obj\Debug\net7.0\ref\часть 2.dll
